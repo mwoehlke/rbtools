@@ -53,6 +53,7 @@ rb_commands = [
     'attach = rbtools.commands.attach:Attach',
     'close = rbtools.commands.close:Close',
     'diff = rbtools.commands.diff:Diff',
+    'info = rbtools.commands.info:Info',
     'patch = rbtools.commands.patch:Patch',
     'post = rbtools.commands.post:Post',
     'publish = rbtools.commands.publish:Publish',
